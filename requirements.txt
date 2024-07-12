@@ -1,0 +1,3 @@
+gradio==3.36.1 # 3.24.0 
+requests
+python-wordpress-xmlrpc
